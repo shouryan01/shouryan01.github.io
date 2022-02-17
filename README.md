@@ -1,13 +1,46 @@
-## Welcome to GitHub Pages
+# Shouryan Nikam Resume
 
-You can use the [editor on GitHub](https://github.com/shouryan01/shouryan01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Summary
+Fascinated by web3 and big data. I ❤️ startups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills and Interests
 
-### Markdown
+R | Python | C++ | Java | HTML | CSS | JS (React, React Native) | PHP | SQL | Assembly Pandas | NumPy | Matplotlib | Scikit-Learn | Seaborn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PROJECTS
+Product Management – led team of 4 to develop a cross-platform app (targeting 10,000 users) & it sold to university organization.
+Visualization / Statistics – analyzed New York Bridges dataset and found interesting correlations and inferences, especially when regarding surprising findings when considering county elevations, median income and bridge owner.
+AI – innovated on SOAR Eaters to create an algorithm that was on average 15% more efficient than previous solutions.
+Software Engineering – designed and implemented an effective hotel management system using React and SQLite as the backend.
 
+## Education
+
+### University of Michigan Sept 2019 - Dec 2022 (expected)
+GPA: 3.98
+_Bachelor of Science_ - Computer Science 
+_Bachelor of Science_ - Data Science
+
+## Relevant Coursework
+Discrete Structures I and II Big Data Management Operating Systems, Networking Data Structures Artificial Intelligence Algorithm Analysis & Design
+
+### Certifications:
+JavaScript | Python 3 | Web Design (CSS, HTML) | PHP | Machine Learning | Django | Analytics & Visualization
+
+## WORK EXPERIENCE
+**Supplemental Instruction Leader** (working with Dr. Feng) Aug 2021 – Present University of Michigan Dearborn, MI
+  Student feedback - attending my sessions “greatly” improved their understanding of difficult probability & statistics concepts. Ensuring collaboration, and     positive learning environment, introduced more efficient study techniques & utilized them.
+
+**Undergraduate Researcher** (working with Dr. Farooq) May 2021 – Present University of Michigan Dearborn, MI
+  Experimentally researching & computing cost-effective strategies for refueling/recharging autonomous vehicles. Created research paper, along with digital application for real-time fuel/charging station recommendations.
+
+**New Student Engagement Paraprofessional** May 2021 – Present University of Michigan Dearborn, MI
+  Administering CRUISE, a new student involvement program including over 150 participants, and overseeing 6 facilitators. Updating official websites, assembling monthly newsletters and corresponding with alumni of existing programs.
+  
+**Teaching Assistant** (working with Dr. Yoon) January 2021 – May 2021 University of Michigan Dearborn, MI
+  Graded quizzes, tests & programs for a computer architecture, organization & assembly course.
+Organized contact between students and professor, resolved student questions and concerns and helped with student success.
+
+<!-- 
 ```markdown
 Syntax highlighted code block
 
@@ -26,12 +59,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shouryan01/shouryan01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
